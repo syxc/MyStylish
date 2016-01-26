@@ -2,7 +2,7 @@
 My Stylish config
 
 Stylish for Safari<br/>
-[http://sobolev.us/stylish](http://sobolev.us/stylish)
+[https://github.com/350d/stylish](https://github.com/350d/stylish)
 
 userstyles<br/>
 [https://userstyles.org/styles/123535/hiragino-chinese-for-nick-by-nickcheng](https://userstyles.org/styles/123535/hiragino-chinese-for-nick-by-nickcheng)
@@ -18,4 +18,4 @@ userstyles<br/>
 [http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html](http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html)
 
 中文网页重设与排版<br/>
-[http://typo.sofi.sh](http://typo.sofi.sh)
+[https://github.com/sofish/Typo.css](https://github.com/sofish/Typo.css)
